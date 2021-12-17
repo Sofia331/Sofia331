@@ -11,7 +11,7 @@
   
    ## 💡 Um pouco sobre mim... 
   
-- 😄 Meu nome é **Sofia Mara dos Reis Silveira** e eu tenho **18 anos**.
+- 😄 Meu nome é **Sofia Mara dos Reis Silveira** e eu tenho **19 anos**.
      <img align="right" alt="Sofia-pic" height="260" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62350286/135948569-31b06805-2123-472a-b8cb-4de10ee702cb.png">
 - 💻 UI/UX Designer na goFlux.
 - 💻 E uma Desenvolvedora Front-end Jr.
