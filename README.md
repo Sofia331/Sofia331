@@ -14,7 +14,8 @@
      <img align="right" alt="Sofia-pic" height="260" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62350286/135948569-31b06805-2123-472a-b8cb-4de10ee702cb.png">
 - 💻 UI/UX Designer na goFlux.
 - 💻 E  estudando para ser uma Desenvolvedora Front-end .
-- 🎓 Estou me formando em **Design de Mídias Digitais**.
+- 🎓 Estou me formando em **Design de Mídias Digitais** pela FATEC.
+- 🎓 E também em **Análise e Desenvolvimento de Sistemas** pela UNINTER.
 - 📚 E realizou diversos cursos de UI/UX , Desenvolvimento Web e entre outros...
 - 🎶 Eu amo ouvir música, então trabalho e estudando ouvindo um rockzinho.
 - 😊 Eu amo fazer trabalho voluntario e sempre estou envolvida em um ou dois. 
