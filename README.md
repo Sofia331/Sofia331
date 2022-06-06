@@ -27,7 +27,6 @@
 - 💻 UI/UX Designer na goFlux.
 - 💻 E  estudando para ser uma Desenvolvedora Front-end .
 - 🎓 Estou me formando em **Design de Mídias Digitais** pela FATEC.
-- 🎓 E também em **Análise e Desenvolvimento de Sistemas** pela UNINTER.
 - 📚 E realizou diversos cursos de UI/UX , Desenvolvimento Web e entre outros...
 - 🎶 Eu amo ouvir música, então trabalho e estudando ouvindo um rockzinho.
 - 😊 Eu amo fazer trabalho voluntario e sempre estou envolvida em um ou dois. 
